@@ -1,0 +1,8 @@
+.paragraph {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -350px);}
+fieldset {border-color: azure;}
+table {border-color:darkblue; border-width:10px;margin: auto; font-size:25px;font-style:italic;}
+body {background-color:rgb(2, 18, 54); font-size:50px; font-family:'Comfortaa'; text-align:center; color:rgb(18, 8, 135); }
+p {font-size:14px;font-style:italic;color:goldenrod}
+.header {font-size:20px; font-family:'Comfortaa'; text-align:center; color:rgb(184, 182, 205); }
+.title {color:darkblue}
+h1 {font-size: 80%;}
